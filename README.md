@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=github actions&logoColor=ffffff">
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff">
+</div>
+<div>
   <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=json web tokens&logoColor=ffffff">
 </div>
 
